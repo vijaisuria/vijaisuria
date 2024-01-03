@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/vijaisuria/"><img src ="https://raw.githubusercontent.com/vijaisuria/vijaisuria/9b4deaa432ca499897b404d5c3a9957df9cddd6f/banner.png" /></a> 
+  <a href="https://github.com/vijaisuria/"><img src ="https://raw.githubusercontent.com/vijaisuria/vijaisuria/main/banner.png" /></a> 
 </div>
 
 <h1 align="center">
@@ -93,8 +93,7 @@ I'm <strong>Vijaisuria</strong>, pursing my <u>BE</u> in Computer Science Engine
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaisuria&theme=tokyonight" alt="Streak" />
 </div>
 
-### GitHub Trophies
+### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vijaisuria&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15" alt="Trophies/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vijaisuria&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
-
