@@ -97,3 +97,5 @@ I'm <strong>Vijaisuria</strong>, pursing my <u>BE</u> in Computer Science Engine
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vijaisuria&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
+
+<!-- <img src="https://leetcode-stats-six.vercel.app/?username=vijaisuria&theme=dark" /> -->
