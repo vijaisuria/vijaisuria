@@ -63,6 +63,9 @@ I'm <strong>Vijaisuria</strong>, pursing my <u>BE</u> in Computer Science Engine
   <a href="https://twitter.com/vijaisuria" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/>
   </a> 
+  <a href="https://orcid.org/0009-0001-1942-0895" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Orchid-A6CE39?style=for-the-badge&logo=orchid&logoColor=white"  height="30px"/>
+  </a>
   <a href="mailto:vijaisuria87@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/>
   </a>
