@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/vijaisuria/"><img src ="https://raw.githubusercontent.com/vijaisuria/vijaisuria/main/banner.png" /></a> 
+  <a href="https://vijaisuria.github.io/"><img src ="https://raw.githubusercontent.com/vijaisuria/vijaisuria/main/banner.png" /></a> 
 </div>
 
 <h1 align="center">
@@ -34,7 +34,7 @@ I'm <strong>Vijaisuria</strong>, pursing my <u>BE</u> in Computer Science Engine
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I waste most of my time playing games
+- ⚡ Fun fact: I code, therefore I am caffeinated :coffee:.
 
 <br>
 
@@ -42,7 +42,7 @@ I'm <strong>Vijaisuria</strong>, pursing my <u>BE</u> in Computer Science Engine
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,sass,tailwind,bootstrap,jquery,mongodb,mysql,sqlite,expressjs,nodejs,php,flask,redux,laravel,c,cpp,java,python,js,ts,bash,latex,md,git,github,githubactions,figma,wordpress,vscode,idea,androidstudio,postman&perline=9" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,sass,tailwind,bootstrap,jquery,vite,mongodb,mysql,sqlite,expressjs,nodejs,php,flask,redux,laravel,spring,c,cpp,java,python,js,ts,bash,latex,md,linux,git,github,githubactions,gcp,figma,wordpress,vscode,idea,androidstudio,postman&perline=10" />
   </a>
 </p>
 
